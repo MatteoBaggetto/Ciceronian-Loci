@@ -1,4 +1,4 @@
-# Ciceronian-Loci
+# Ciceronian-Loci  --> Coming soon
 
 This project (my Master's Thesis) was carried out with the supervision and support of FifthIngenium, a company focused on mixed reality. It consists of research on the functioning and usefulness of the Ciceronian loci technique, followed by the development of a mixed reality application, created in Unity for the Meta Quest 3 headset. The application reproduces the functioning of this technique through various mechanisms and a mini-game. It can also save all contents across different sessions and automatically load them based on the physical room the user is located in. The program is integrated with FifthIngenium’s server to offer online services, such as uploading content from a PC through their portal and then retrieving it in the application on the headset.
 
