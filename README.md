@@ -4,4 +4,4 @@ This project (my Master's Thesis) was carried out with the supervision and suppo
 
 Note that this uploaded project is a slightly different version deprived of functionalities connected to FifthIngenium's server for privacy reasons. To understand how missing functionalities work, one could read the thesis file, where the complete version is described.
 
-When a feature is missing completely or partially, it's written a comment "MISSING FUNCTIONALITY" in the code.
+When a feature is missing completely or partially, it's written a comment "MISSING FUNCTIONALITY" in the code. However this version still works, what is missing has been implemented with hard-coded data in the program, for demo purposes.
