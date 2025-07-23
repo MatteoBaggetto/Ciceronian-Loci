@@ -1,0 +1,134 @@
+{
+  "CoordinateSystem": "Unity",
+  "Rooms": [
+    {
+      "UUID": "14C326CD-85D5-4459-ACCA-58C7F5A63EDA",
+      "RoomLayout": {
+        "FloorUuid": "E21F6699-9667-43D3-889E-A3D1097D317F",
+        "CeilingUuid": "5B59F395-64CC-4F99-B3DF-C62766F3875A",
+        "WallsUuid": [
+          "923BF36D-A652-49A6-8616-F0D68951580E",
+          "D98DCFEF-5D64-4E06-B352-F27986955769",
+          "16D17A13-69E8-4428-81C2-3B8613792909",
+          "2A9F5334-77F8-4CB5-BD27-FEBE7810D6F5"
+        ]
+      },
+      "Anchors": [
+        {
+          "UUID": "E21F6699-9667-43D3-889E-A3D1097D317F",
+          "SemanticClassifications": ["FLOOR"],
+          "Transform": {
+            "Translation": [0.0, 0.0, 0.0],
+            "Rotation": [270.0, 0.0, 0.0],
+            "Scale": [1.0, 1.0, 1.0]
+          },
+          "PlaneBounds": {
+            "Min": [-1.0, -1.0],
+            "Max": [1.0, 1.0]
+          },
+          "PlaneBoundary2D": [
+            [-1.0, -1.0],
+            [1.0, -1.0],
+            [1.0, 1.0],
+            [-1.0, 1.0]
+          ]
+        },
+        {
+          "UUID": "5B59F395-64CC-4F99-B3DF-C62766F3875A",
+          "SemanticClassifications": ["CEILING"],
+          "Transform": {
+            "Translation": [0.0, 3.0, 0.0],
+            "Rotation": [90.0, 0.0, 0.0],
+            "Scale": [1.0, 1.0, 1.0]
+          },
+          "PlaneBounds": {
+            "Min": [-1.0, -1.0],
+            "Max": [1.0, 1.0]
+          },
+          "PlaneBoundary2D": [
+            [-1.0, -1.0],
+            [1.0, -1.0],
+            [1.0, 1.0],
+            [-1.0, 1.0]
+          ]
+        },
+        {
+          "UUID": "923BF36D-A652-49A6-8616-F0D68951580E",
+          "SemanticClassifications": ["WALL_FACE"],
+          "Transform": {
+            "Translation": [1.0, 1.5, 0.0],
+            "Rotation": [0.0, 90.0, 0.0],
+            "Scale": [1.0, 1.0, 1.0]
+          },
+          "PlaneBounds": {
+            "Min": [-1.0, -1.5],
+            "Max": [1.0, 1.5]
+          },
+          "PlaneBoundary2D": [
+            [-1.0, -1.5],
+            [1.0, -1.5],
+            [1.0, 1.5],
+            [-1.0, 1.5]
+          ]
+        },
+        {
+          "UUID": "D98DCFEF-5D64-4E06-B352-F27986955769",
+          "SemanticClassifications": ["WALL_FACE"],
+          "Transform": {
+            "Translation": [-1.0, 1.5, 0.0],
+            "Rotation": [0.0, 270.0, 0.0],
+            "Scale": [1.0, 1.0, 1.0]
+          },
+          "PlaneBounds": {
+            "Min": [-1.0, -1.5],
+            "Max": [1.0, 1.5]
+          },
+          "PlaneBoundary2D": [
+            [-1.0, -1.5],
+            [1.0, -1.5],
+            [1.0, 1.5],
+            [-1.0, 1.5]
+          ]
+        },
+        {
+          "UUID": "16D17A13-69E8-4428-81C2-3B8613792909",
+          "SemanticClassifications": ["WALL_FACE"],
+          "Transform": {
+            "Translation": [0.0, 1.5, 1.0],
+            "Rotation": [0.0, 0.0, 0.0],
+            "Scale": [1.0, 1.0, 1.0]
+          },
+          "PlaneBounds": {
+            "Min": [-1.0, -1.5],
+            "Max": [1.0, 1.5]
+          },
+          "PlaneBoundary2D": [
+            [-1.0, -1.5],
+            [1.0, -1.5],
+            [1.0, 1.5],
+            [-1.0, 1.5]
+          ]
+        },
+        {
+          "UUID": "2A9F5334-77F8-4CB5-BD27-FEBE7810D6F5",
+          "SemanticClassifications": ["WALL_FACE"],
+          "Transform": {
+            "Translation": [0.0, 1.5, -1.0],
+            "Rotation": [0.0, 180.0, 0.0],
+            "Scale": [1.0, 1.0, 1.0]
+          },
+          "PlaneBounds": {
+            "Min": [-1.0, -1.5],
+            "Max": [1.0, 1.5]
+          },
+          "PlaneBoundary2D": [
+            [-1.0, -1.5],
+            [1.0, -1.5],
+            [1.0, 1.5],
+            [-1.0, 1.5]
+          ]
+        }
+      ]
+    }
+  ]
+}
